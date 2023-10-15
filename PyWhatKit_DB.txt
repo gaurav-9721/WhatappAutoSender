@@ -1,0 +1,320 @@
+Date: 10/10/2023
+Time: 21:13
+Phone Number: +916264858827
+Message: Geeks For Geeks!
+--------------------
+Date: 10/10/2023
+Time: 21:18
+Phone Number: +916264858827
+Message: Geeks For Geeks!
+--------------------
+Date: 10/10/2023
+Time: 21:19
+Phone Number: +916264858827
+Message: Hello Gaurav!
+--------------------
+Date: 10/10/2023
+Time: 22:55
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *5*Thank you
+--------------------
+Date: 10/10/2023
+Time: 22:56
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 22:56
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 22:59
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:0
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:0
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:1
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:2
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:2
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:3
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:3
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:3
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:4
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:6
+Phone Number: +916264858827
+Message: Hello 1
+--------------------
+Date: 10/10/2023
+Time: 23:6
+Phone Number: +916264858827
+Message: Hello 2
+--------------------
+Date: 10/10/2023
+Time: 23:9
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 10/10/2023
+Time: 23:10
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 10/10/2023
+Time: 23:36
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:36
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:37
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:37
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:37
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:40
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:40
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:41
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:41
+Phone Number: +910    6264858827
+1    6264858827
+Name: Contact, dtype: int64
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:44
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:44
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:44
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:45
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:52
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:52
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:54
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:54
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:55
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:55
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:56
+Phone Number: +916264858827
+Message: Hi, *Ose*Your lucky random number is *6*Thank you
+--------------------
+Date: 10/10/2023
+Time: 23:57
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *9*Thank you
+--------------------
+Date: 11/10/2023
+Time: 0:1
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, OseThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:1
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:2
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, OseThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:3
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:4
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, OseThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:4
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:7
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, OseThis is a cat caption.
+--------------------
+Date: 11/10/2023
+Time: 0:7
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------
+Date: 15/10/2023
+Time: 22:41
+Phone Number: +916265766078
+Message: Hi, *Ose*Your lucky random number is *10*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:41
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *69*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:42
+Phone Number: +916265766078
+Message: Hi, *Ose*Your lucky random number is *10*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:44
+Phone Number: +916265766078
+Message: Hi, *Ose*Your lucky random number is *10*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:44
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *69*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:45
+Phone Number: +916265766078
+Message: Hi, *Ose*Your lucky random number is *10*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:46
+Phone Number: +916264858827
+Message: Hi, *Gaurav*Your lucky random number is *69*Thank you
+--------------------
+Date: 15/10/2023
+Time: 22:46
+Phone Number: +916265766078
+Image: image.png
+Caption: Hello, OseThis is a cat caption.
+--------------------
+Date: 15/10/2023
+Time: 22:46
+Phone Number: +916264858827
+Image: image.png
+Caption: Hello, GauravThis is a cat caption.
+--------------------

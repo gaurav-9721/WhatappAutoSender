@@ -1,0 +1,3 @@
+Hi, *{}*
+Your lucky random number is *{}*
+Thank you
